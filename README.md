@@ -42,19 +42,21 @@ corrigido.
 
 ## Objetivo 3
 
-Considerado a proposta de estruturação do [NX](https://nx.dev/), crie uma biblioteca de UI e extraia para um componente o formulário de nova task. Faça com que o app `todo-list` utilize o novo componente de formulário.  
+Considerando a proposta de estruturação do [NX](https://nx.dev/), crie uma biblioteca de UI e extraia para um componente o formulário de nova task. Faça com que o app `todo-list` utilize o novo componente de formulário.  
   
 Material de apoio sobre o NX:
 
-1️⃣ ["Applications and libraries"](https://nx.dev/more-concepts/applications-and-libraries)  
-2️⃣ ["Library Types"](https://nx.dev/more-concepts/library-types)  
-3️⃣ ["Grouping Libraries"](https://nx.dev/more-concepts/grouping-libraries)  
-4️⃣ ["Using Nx at Enterprises"](https://nx.dev/more-concepts/monorepo-nx-enterprise)  
+1️⃣ [Applications and libraries](https://nx.dev/more-concepts/applications-and-libraries)  
+2️⃣ [Library Types](https://nx.dev/more-concepts/library-types)  
+3️⃣ [Grouping Libraries](https://nx.dev/more-concepts/grouping-libraries)  
+4️⃣ [Using Nx at Enterprises](https://nx.dev/more-concepts/monorepo-nx-enterprise)  
 
 ## Extras
 
+Estes são objetivos não obrigatórios, mas que são um diferencial para a vaga.
+
 * Implemente um teste unitário (utilize o Jest)
-* Implemente um limite de caracteres para o campo "descrição"
+* Implemente um teste e2e
 
 ## Entrega e regras
 
